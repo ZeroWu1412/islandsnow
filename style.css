@@ -7,3 +7,12 @@
   box-shadow: none;
   border: none;
 }
+.footer-background {
+  background-color: #292929;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: white;
+}
+.ui.item{
+  color: white;
+}
